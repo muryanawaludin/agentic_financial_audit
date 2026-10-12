@@ -1,7 +1,7 @@
 # Autonomous Financial Audit & ERP Reconciliation Agent
 ### Bab 4: Tool Use dan Function Calling: Menghubungkan Logika LLM dengan Dunia Nyata
 
-[![Demo Aplikasi](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agentic-financial-audit.streamlit.app)
+[![Demo Aplikasi](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sgentic-financial-audit.streamlit.app)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-agentic__financial__audit-blue?logo=github)](https://github.com/muryanawaludin/agentic_financial_audit.git)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/Copyright-©%202026%20Muryan%20Awaludin-green)](LICENSE)
@@ -16,8 +16,8 @@ Sistem ini merealisasikan agen otonom untuk audit transaksi keuangan enterprise 
 
 Aplikasi ini telah dikonfigurasi agar dapat langsung diuji coba secara publik tanpa instalasi lokal:
 
-👉 **[Buka Demo Aplikasi Streamlit](https://agentic-financial-audit.streamlit.app)**  
-*(URL alternatif: [https://agentic_financial_audit.streamlit.app](https://agentic-financial-audit.streamlit.app))*
+👉 **[Buka Demo Aplikasi Streamlit](https://sgentic-financial-audit.streamlit.app)**  
+*(URL alternatif: [https://agentic_financial_audit.streamlit.app](https://sgentic-financial-audit.streamlit.app))*
 
 ---
 
